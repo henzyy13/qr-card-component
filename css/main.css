@@ -1,0 +1,29 @@
+body {
+    background-color: #6f8fac;
+}
+
+.div-1 {
+    background-color: white;
+    width: fit-content;
+    height: 60%;
+    margin: 10% 35%; 
+    border-radius: 5%;
+
+}
+
+.div-1 img {
+    width: 85%;
+    height: 60%;
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 5%;
+}
+
+.main-1 {
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.p  {
+    margin: 0 30px;
+}
